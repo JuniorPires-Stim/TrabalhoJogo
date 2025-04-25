@@ -13,18 +13,14 @@ class Game:
 
     def run(self):
         while True:
-            pygame.mixer_music.load('asset/musica.mp3')
-            pygame.mixer_music.play(-1)
+
             menu = Menu(self.window)
             menu.run()
             pass
 
 
 
-      #      for event in pygame.event.get():
-     #           if event.type == pygame.QUIT:
-      #              pygame.quit()
-       #             quit()
+
 
 
 
