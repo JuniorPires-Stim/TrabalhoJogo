@@ -4,257 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e595719-2147-40a7-a1ff-c477d558d409" name="Changes" comment="TrabalhoJogo code imagem e musica">
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/A1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/C1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/E1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/F1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/G1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/I1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/J1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/J2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/K1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/L1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/L2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/M1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/N2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/O1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/O2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/Q2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/T2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/U2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/V2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/X2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1 Font/Y1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/101.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/113.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/61.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/65.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/68.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/77.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/78.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/81.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/85.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/86.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/90.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/91.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/93.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/0 All/94.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/1 Spray/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/1 Spray/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/1 Spray/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/1 Spray/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/1 Spray/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/10 Bubbles/65.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/10 Bubbles/67.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/11 Bones/69.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/11 Bones/70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/11 Bones/71.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/11 Bones/73.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/11 Bones/74.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/12 Crowns/76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/12 Crowns/79.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/12 Crowns/80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/12 Crowns/81.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/13 Wings/82.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/13 Wings/83.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/13 Wings/85.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/14 Nimbus/86.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/14 Nimbus/87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/14 Nimbus/89.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/14 Nimbus/90.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/15 Shine/91.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/15 Shine/93.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/15 Shine/95.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/15 Shine/96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/15 Shine/98.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/16 Stars/102.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/16 Stars/106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/17 Bricks/109.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/17 Bricks/110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/18 Puddles/111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/19 Backtiles/Back_24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/2 Pointers/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/2 Pointers/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/2 Pointers/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/3 Rays/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/3 Rays/18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/4 Smudges/19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/4 Smudges/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/4 Smudges/21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/4 Smudges/23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/4 Smudges/24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/5 ExtraRays/28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/5 ExtraRays/33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/5 ExtraRays/34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/6 Circles/36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/6 Circles/37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/6 Circles/38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/6 Circles/41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/7 Waves/42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/7 Waves/44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/7 Waves/46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/9 Hearts/56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/9 Hearts/58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/9 Hearts/59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/9 Hearts/60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2 Decoratoins/9 Hearts/61.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/3 Transitions/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/3 Transitions/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/3 Transitions/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/3 Transitions/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/3 Transitions/17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/3 Transitions/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/3 Transitions/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/3 Transitions/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/4 Examples/2Squad13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/4 Examples/5Greenteam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/4 Examples/8Loot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/4 Examples/9Craftpix.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Gangsters_1/Idle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Gangsters_1/Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Gangsters_2/Attack_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Gangsters_2/Dead.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Gangsters_2/Idle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Gangsters_2/Run.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Gangsters_3/Dead.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Gangsters_3/Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War1/Bright/crater1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War1/Bright/crater2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War1/Bright/fence.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War1/Bright/house3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War1/Bright/houses1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War1/Bright/road.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War1/Bright/ruins.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War1/Pale/ruins.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War2/Bright/War2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War2/Bright/houses2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War2/Bright/wall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War2/Pale/cracks2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War2/Pale/houses2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War2/Pale/houses3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War2/Pale/houses4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War2/Pale/wall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War3/Bright/bricks1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War3/Bright/bricks2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War3/Bright/bricks3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War3/Bright/houses2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War3/Bright/houses3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War3/Bright/road.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War3/Bright/sky.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War3/Bright/trees.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War3/Pale/bricks3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War3/Pale/houses3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/Bright/Moon_asset.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/Bright/houses3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/Bright/road.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/Bright/wheels2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/Bright/wheels3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/Pale/Moon_asset.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/Pale/War4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/Pale/houses1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/Pale/houses3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/Pale/houses4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/Pale/road.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/Pale/sky.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/Pale/wall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PNG/War4/Pale/wheels.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PSD/Gangsters_2_Spritelist.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PSD/Gangsters_3_Spritelist.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PSD/War.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PSD/War2.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PSD/Zombie_3_Spritelist.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PSD2/Font_decorations.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/PSD2/Transparent.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_1/Attack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_1/Dead.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_1/Idle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_1/Walk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_2/Dead.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_2/Hurt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_2/Idle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_2/Walk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_3/Attack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_3/Dead.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_3/Walk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_4/Attack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_4/Hurt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_4/Idle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Zombie_4/Walk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/__MACOSX/._COUPON.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/__MACOSX/._Font.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/__MACOSX/._PSD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/__MACOSX/._Zombie_1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/__MACOSX/._Zombie_2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/__MACOSX/._Zombie_3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/__MACOSX/._Zombie_4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/__MACOSX/PSD/._Zombie_1_Spritelist.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/__MACOSX/PSD/._Zombie_4_Spritelist.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/__MACOSX/Zombie_1/._Walk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/__MACOSX/Zombie_2/._Dead.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/__MACOSX/Zombie_2/._Hurt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/__MACOSX/Zombie_2/._Walk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/__MACOSX/Zombie_3/._Dead.png" afterDir="false" />
+    <list default="true" id="3e595719-2147-40a7-a1ff-c477d558d409" name="Changes" comment="criamos o beckgraund, colocamos o som, texto e menu">
+      <change afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/fabricaDeEntidades.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/interface1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/interface2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -379,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744852725440</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="criamos o beckgraund, colocamos o som, texto e menu">
+      <option name="closed" value="true" />
+      <created>1745543055716</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745543055716</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,7 +175,8 @@
     <MESSAGE value="TrabalhoJogo" />
     <MESSAGE value="TrabalhoJogo code" />
     <MESSAGE value="TrabalhoJogo code imagem e musica" />
-    <option name="LAST_COMMIT_MESSAGE" value="TrabalhoJogo code imagem e musica" />
+    <MESSAGE value="criamos o beckgraund, colocamos o som, texto e menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="criamos o beckgraund, colocamos o som, texto e menu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -421,7 +188,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/code/Menu.py</url>
-          <line>41</line>
+          <line>63</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
