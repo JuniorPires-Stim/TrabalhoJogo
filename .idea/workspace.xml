@@ -4,22 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e595719-2147-40a7-a1ff-c477d558d409" name="Changes" comment="cameçando a interação do menu de opções">
-      <change afterPath="$PROJECT_DIR$/code/Background.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/EntityFactory.py" afterDir="false" />
+    <list default="true" id="3e595719-2147-40a7-a1ff-c477d558d409" name="Changes" comment="tualizando o guit">
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/musica.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/PNG/War1/Bright/crater1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/PNG/War1/Bright/crater2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/PNG/War1/Bright/fence.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/PNG/War1/Bright/house3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/PNG/War1/Bright/houses1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/PNG/War1/Bright/road.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/PNG/War1/Bright/ruins.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/backgraund.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/EntityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/EntityFactory.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745966821977</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="tualizando o guit">
+      <option name="closed" value="true" />
+      <created>1746493393885</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746493393885</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,7 +202,8 @@
     <MESSAGE value="TrabalhoJogo code imagem e musica" />
     <MESSAGE value="criamos o beckgraund, colocamos o som, texto e menu" />
     <MESSAGE value="cameçando a interação do menu de opções" />
-    <option name="LAST_COMMIT_MESSAGE" value="cameçando a interação do menu de opções" />
+    <MESSAGE value="tualizando o guit" />
+    <option name="LAST_COMMIT_MESSAGE" value="tualizando o guit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -211,6 +222,11 @@
           <url>file://$PROJECT_DIR$/code/player.py</url>
           <line>6</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/Level.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
