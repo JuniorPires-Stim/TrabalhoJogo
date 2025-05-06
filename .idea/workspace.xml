@@ -4,15 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e595719-2147-40a7-a1ff-c477d558d409" name="Changes" comment="criamos o beckgraund, colocamos o som, texto e menu">
-      <change afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
+    <list default="true" id="3e595719-2147-40a7-a1ff-c477d558d409" name="Changes" comment="cameçando a interação do menu de opções">
+      <change afterPath="$PROJECT_DIR$/code/Background.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/EntityFactory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/PNG/War1/Bright/crater1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/PNG/War1/Bright/crater2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/PNG/War1/Bright/fence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/PNG/War1/Bright/house3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/PNG/War1/Bright/houses1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/PNG/War1/Bright/road.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/PNG/War1/Bright/ruins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/fabricaDeEntidades.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/interface1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/interface2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/backgraund.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/player.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +54,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/jessica.paiva/Downloads/jogo&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -145,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745543055716</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="cameçando a interação do menu de opções">
+      <option name="closed" value="true" />
+      <created>1745966821977</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745966821977</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,7 +191,8 @@
     <MESSAGE value="TrabalhoJogo code" />
     <MESSAGE value="TrabalhoJogo code imagem e musica" />
     <MESSAGE value="criamos o beckgraund, colocamos o som, texto e menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="criamos o beckgraund, colocamos o som, texto e menu" />
+    <MESSAGE value="cameçando a interação do menu de opções" />
+    <option name="LAST_COMMIT_MESSAGE" value="cameçando a interação do menu de opções" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -190,6 +206,11 @@
           <url>file://$PROJECT_DIR$/code/Menu.py</url>
           <line>63</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/player.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
