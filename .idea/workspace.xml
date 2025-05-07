@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e595719-2147-40a7-a1ff-c477d558d409" name="Changes" comment="resolvendo o problema do level1">
+    <list default="true" id="3e595719-2147-40a7-a1ff-c477d558d409" name="Changes" comment="problema de iniciar o level1 resolvido">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/Level1Bg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Background.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Background.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/EntityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/EntityFactory.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +182,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746503220265</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="problema de iniciar o level1 resolvido">
+      <option name="closed" value="true" />
+      <created>1746575258018</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746575258018</updated>
+    </task>
+    <task id="LOCAL-00013" summary="problema de iniciar o level1 resolvido">
+      <option name="closed" value="true" />
+      <created>1746575310469</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746575310469</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +232,8 @@
     <MESSAGE value="cameçando a interação do menu de opções" />
     <MESSAGE value="tualizando o guit" />
     <MESSAGE value="resolvendo o problema do level1" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolvendo o problema do level1" />
+    <MESSAGE value="problema de iniciar o level1 resolvido" />
+    <option name="LAST_COMMIT_MESSAGE" value="problema de iniciar o level1 resolvido" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -226,7 +245,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/code/EntityFactory.py</url>
-          <line>5</line>
+          <line>6</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
