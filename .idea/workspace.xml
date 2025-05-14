@@ -4,12 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e595719-2147-40a7-a1ff-c477d558d409" name="Changes" comment="problema de iniciar o level1 resolvido">
+    <list default="true" id="3e595719-2147-40a7-a1ff-c477d558d409" name="Changes" comment="ajustando velocidade das imagens">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/Level1Bg2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Background.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Background.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/Level1Bg10.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Level1Bg10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/Level1Bg2.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Level1Bg2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/Level1Bg3.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Level1Bg3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/Level1Bg4.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Level1Bg4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/Level1Bg5.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Level1Bg5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/Level1Bg6.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Level1Bg6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/Level1Bg7.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Level1Bg7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/Level1Bg8.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Level1Bg8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/Level1Bg9.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Level1Bg9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/EntityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/EntityFactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746575310469</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ajustando velocidade das imagens">
+      <option name="closed" value="true" />
+      <created>1746577675725</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746577675725</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,7 +250,8 @@
     <MESSAGE value="tualizando o guit" />
     <MESSAGE value="resolvendo o problema do level1" />
     <MESSAGE value="problema de iniciar o level1 resolvido" />
-    <option name="LAST_COMMIT_MESSAGE" value="problema de iniciar o level1 resolvido" />
+    <MESSAGE value="ajustando velocidade das imagens" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustando velocidade das imagens" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,20 +1,19 @@
-#W
-WIN_WIDTH = 1280
-WIN_HEIGTH = 720
+# W
+WIN_WIDTH = 720
+WIN_HEIGTH = 480
 
-#C
+# C
 COLOR_RED = (255, 0, 0)
 COLOR_WHITE = (255, 255, 255)
 
+# M
+MENU_OPTION = ("NEW GAME 1P",
+               "NEW GAME 2P COPERATIVE",
+               "NEW GAME 2P COMPETITIVE",
+               "SCORE",
+               "EXIT")
 
-#M
-MENU_OPTION =("NEW GAME 1P",
-              "NEW GAME 2P COPERATIVE",
-              "NEW GAME 2P COMPETITIVE",
-              "SCORE",
-              "EXIT")
-
-#E
+# E
 ENTITY_SPEED = {'Level1Bg0': 0,
                 'Level1Bg1': 0,
                 'Level1Bg2': 1,
@@ -25,4 +24,4 @@ ENTITY_SPEED = {'Level1Bg0': 0,
                 'Level1Bg7': 16,
                 'Level1Bg8': 19,
                 'Level1Bg9': 22,
-                'Level1Bg10': 25,}
+                'Level1Bg10': 25, }

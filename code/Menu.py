@@ -12,8 +12,10 @@ from code.Const import MENU_OPTION
 class Menu:
     def __init__(self, window):
         self.window = window
-        self.surf = pygame.image.load('asset/PNG/War2/Bright/War2.png')
-        self.rect = self.surf.get_rect(left=0, top=0)
+        original_image = pygame.image.load('asset/PNG/War2/Bright/War2.png')
+        resized_image = pygame.transform.scale(original_image, (720, 480))
+        self.surf = resized_image
+        self.rect = self.surf.get_rect(topleft=(0, 0))
 
     def run(self, ):
         pygame.mixer_music.load('asset/musica.wav')
@@ -23,17 +25,17 @@ class Menu:
 
         while True:
             self.window.blit(source=self.surf, dest=self.rect)
-            self.menu_text(text_size=160, text='ZooBie', text_color=COLOR_RED, text_center_pos=(WIN_WIDTH / 2, 160))
-            self.menu_text(text_size=160, text='Apocalipse', text_color=COLOR_RED, text_center_pos=(WIN_WIDTH / 2, 260))
+            self.menu_text(text_size=80, text='ZooBie', text_color=COLOR_RED, text_center_pos=(WIN_WIDTH / 2, 60))
+            self.menu_text(text_size=80, text='Apocalipse', text_color=COLOR_RED, text_center_pos=(WIN_WIDTH / 2, 120))
 
             for i in range(len(MENU_OPTION)):
                 if i == menu_option:
-                    self.menu_text(text_size=60, text=MENU_OPTION[i], text_color=COLOR_RED,
-                                   text_center_pos=(WIN_WIDTH / 2, 400 + 60 * i))
+                    self.menu_text(text_size=40, text=MENU_OPTION[i], text_color=COLOR_RED,
+                                   text_center_pos=(WIN_WIDTH / 2, 210 + 60 * i))
 
                 else:
-                    self.menu_text(text_size=60, text=MENU_OPTION[i], text_color=COLOR_WHITE,
-                                   text_center_pos=(WIN_WIDTH / 2, 400 + 60 * i))
+                    self.menu_text(text_size=40, text=MENU_OPTION[i], text_color=COLOR_WHITE,
+                                   text_center_pos=(WIN_WIDTH / 2, 220 + 60 * i))
 
             pygame.display.flip()
 

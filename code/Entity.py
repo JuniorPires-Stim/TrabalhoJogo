@@ -6,8 +6,12 @@ import pygame
 class Entity(ABC):
     def __init__(self, name: str, position: tuple):
         self.name = name
-        self.surf = pygame.image.load('asset/' + name + '.png')
-        self.rect = self.surf.get_rect(left=position[0], top=position[1])
+        original_image = pygame.image.load('asset/' + name + '.png')
+
+        resized_image = pygame.transform.scale(original_image, (720, 480))
+
+        self.surf = resized_image
+        self.rect = self.surf.get_rect(topleft=position)
         self.speed = 0
 
     @abstractmethod
