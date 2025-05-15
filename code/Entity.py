@@ -6,8 +6,7 @@ import pygame
 class Entity(ABC):
     def __init__(self, name: str, position: tuple):
         self.name = name
-        original_image = pygame.image.load('asset/' + name + '.png')
-
+        original_image = pygame.image.load('asset/' + name + '.png').convert_alpha()
         resized_image = pygame.transform.scale(original_image, (720, 480))
 
         self.surf = resized_image

@@ -12,7 +12,7 @@ from code.Const import MENU_OPTION
 class Menu:
     def __init__(self, window):
         self.window = window
-        original_image = pygame.image.load('asset/PNG/War2/Bright/War2.png')
+        original_image = pygame.image.load('asset/PNG/War2/Bright/War2.png').convert_alpha()
         resized_image = pygame.transform.scale(original_image, (720, 480))
         self.surf = resized_image
         self.rect = self.surf.get_rect(topleft=(0, 0))

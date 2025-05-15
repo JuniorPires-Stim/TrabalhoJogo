@@ -1,5 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+import sys
+
 import pygame
 
 from code.Entity import Entity
@@ -15,9 +17,19 @@ class Level:
         self.entity_list.extend(EntityFactory.get_entity('Level1Bg'))
 
     def run(self, ):
+        pygame.mixer_music.load('asset/musica.wav')
+        pygame.mixer_music.play(-1)
+        clock = pygame.time.Clock()
+
         while True:
+            clock.tick(60)
             for ent in self.entity_list:
                 self.window.blit(source=ent.surf, dest=ent.rect)
                 ent.move()
-            pygame.display.flip()
+            for event in pygame.event.get():
+                if event.type == pygame.QUIT:
+                    pygame.quit()
+                    sys.exit()
+
+            self.level_text(14, )
             pass
