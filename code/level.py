@@ -18,7 +18,7 @@ class Level:
         self.game_mode = game_mode
         self.entity_list: list[Entity] = []
         self.entity_list.extend(EntityFactory.get_entity('Level1Bg'))
-        self.timeout = 20000
+        #self.timeout = 20000
 
     def run(self, ):
         pygame.mixer_music.load('asset/musica.wav')
