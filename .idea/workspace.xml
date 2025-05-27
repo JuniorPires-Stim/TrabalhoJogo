@@ -227,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747953342185</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="ajustando Level, Menu e Entity">
+      <option name="closed" value="true" />
+      <created>1748298830349</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1748298830349</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,6 +286,11 @@
           <url>file://$PROJECT_DIR$/code/EntityFactory.py</url>
           <line>6</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/Level.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

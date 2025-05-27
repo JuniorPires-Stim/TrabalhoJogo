@@ -18,7 +18,7 @@ class Level:
         self.game_mode = game_mode
         self.entity_list: list[Entity] = []
         self.entity_list.extend(EntityFactory.get_entity('Level1Bg'))
-        #self.timeout = 20000
+        # self.timeout = 20000
 
     def run(self, ):
         pygame.mixer_music.load('asset/musica.wav')
@@ -35,8 +35,8 @@ class Level:
                     pygame.quit()
                     sys.exit()
 
-            self.level_text(14, f'{self.name} - Timeout: {self.timeout / 1000 :.1f}s', COLOR_WHITE, (10,5))
-            self.level_text(14, f'fps: {color.get_fps() :.0f}', COLOR_WHITE, (10, WIN_HEIGTH -  35))
+            self.level_text(14, f'{self.name} - Timeout: {self.timeout / 1000 :.1f}s', COLOR_WHITE, (10, 5))
+            self.level_text(14, f'fps: {color.get_fps() :.0f}', COLOR_WHITE, (10, WIN_HEIGTH - 35))
             self.level_text(14, f'entidades: {len(self.entity_list)}', COLOR_WHITE, (10, WIN_HEIGTH - 20))
             pygame.display.flip()
         pass
