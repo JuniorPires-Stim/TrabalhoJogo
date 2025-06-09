@@ -18,7 +18,7 @@ class Level:
         self.game_mode = game_mode
         self.entity_list: list[Entity] = []
         self.entity_list.extend(EntityFactory.get_entity('Level1Bg'))
-        # self.timeout = 20000
+        self.timeout = 20000
 
     def run(self, ):
         pygame.mixer_music.load('asset/musica.wav')
@@ -36,7 +36,7 @@ class Level:
                     sys.exit()
 
             self.level_text(14, f'{self.name} - Timeout: {self.timeout / 1000 :.1f}s', COLOR_WHITE, (10, 5))
-            self.level_text(14, f'fps: {color.get_fps() :.0f}', COLOR_WHITE, (10, WIN_HEIGTH - 35))
+            self.level_text(14, f'fps: {clock.get_fps() :.0f}', COLOR_WHITE, (10, WIN_HEIGTH - 35))
             self.level_text(14, f'entidades: {len(self.entity_list)}', COLOR_WHITE, (10, WIN_HEIGTH - 20))
             pygame.display.flip()
         pass
@@ -44,5 +44,5 @@ class Level:
     def level_text(self, text_size: int, text: str, text_color: tuple, text_post: tuple):
         text_font: Font = pygame.font.SysFont(name='Lucida sanz Typewriter', size=text_size)
         text_surf: Surface = text_font.render(text, True, text_color).convert_alpha()
-        text_rect: Rect = text_surf.get_rect(center=text_center_pos)
+        text_rect: Rect = text_surf.get_rect(left=text_post[0], top=text_post[1])
         self.window.blit(source=text_surf, dest=text_rect)

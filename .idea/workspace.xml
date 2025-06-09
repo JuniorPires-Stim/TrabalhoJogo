@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e595719-2147-40a7-a1ff-c477d558d409" name="Changes" comment="ajustando Level, Menu e Entity" />
+    <list default="true" id="3e595719-2147-40a7-a1ff-c477d558d409" name="Changes" comment="ajustando o código">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748306752923</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="ajustando o código">
+      <option name="closed" value="true" />
+      <created>1748306831936</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1748306831936</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,7 +296,8 @@
     <MESSAGE value="problema de iniciar o level1 resolvido" />
     <MESSAGE value="ajustando velocidade das imagens" />
     <MESSAGE value="ajustando Level, Menu e Entity" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajustando Level, Menu e Entity" />
+    <MESSAGE value="ajustando o código" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustando o código" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
