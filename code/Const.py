@@ -2,6 +2,11 @@
 WIN_WIDTH = 720
 WIN_HEIGTH = 480
 
+# T
+TamanhoI = 40
+TamanhoII = 40
+
+
 # C
 COLOR_RED = (255, 0, 0)
 COLOR_WHITE = (255, 255, 255)
