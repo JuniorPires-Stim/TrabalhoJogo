@@ -2,14 +2,17 @@
 # -*- coding: utf-8 -*-
 import pygame
 
+from code.Const import TamanhoI, TamanhoII
 from code.Entity import Entity
 
 
 class Player(Entity):
-    def __init__(self, name: str, position: tuple, size: tuple = (6, 6)):
-        super().__init__(name, position)
-        self.image = pygame.image.load(f"/asset/Player1.png")
-        self.image = pygame.transform.scale(self.image, size)
+    def __init__(self, name: str, position: tuple):
+        super().__init__(name, position,)
+
+
+
+
 
     def move(self, ):
         pass
